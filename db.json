@@ -1,0 +1,44 @@
+{
+  "product": [
+    {
+      "name": "Mouse",
+      "cost": "400",
+      "id": 1
+    },
+    {
+      "name": "keyboard",
+      "cost": "400",
+      "id": 2
+    },
+    {
+      "name": "watch",
+      "cost": "300",
+      "id": 3
+    },
+    {
+      "name": "Key",
+      "cost": "500",
+      "id": 4
+    },
+    {
+      "name": "Mobile",
+      "cost": "4000",
+      "id": 5
+    },
+    {
+      "name": "iphone",
+      "cost": "76000",
+      "id": 6
+    },
+    {
+      "name": "Fruit",
+      "cost": "100",
+      "id": 7
+    },
+    {
+      "name": "Vegetable",
+      "cost": "200",
+      "id": 8
+    }
+  ]
+}
